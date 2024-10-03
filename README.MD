@@ -53,7 +53,7 @@ Counts the unique values in the credit and name columns.
 Groups the data by name and sums up the credit values.
 Save Cleaned Data: Saves the cleaned data into a new CSV file.
 4.Now to run the analysis enter the following script
-    ```bash             
+                
    python csv_analyzer.py data/test_file.csv data/cleaned_test_file.csv
 
                   
