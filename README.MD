@@ -25,4 +25,4 @@ To use the script, follow these steps:
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the script is located:
    
-   cd path/to/your/script/directory
+   `cd path/to/your/script/directory`
