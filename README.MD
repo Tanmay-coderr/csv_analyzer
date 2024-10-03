@@ -27,7 +27,7 @@ To use the script, follow these steps:
     ```bash
    cd path/to/your/script/directory
 4.Now to run the analysis enter the following script
-     ```bash             
+    ```bash             
    python csv_analyzer.py data/test_file.csv data/cleaned_test_file.csv
 
                   
