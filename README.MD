@@ -26,7 +26,7 @@ To use the script, follow these steps:
 3. Navigate to the directory where the script is located:
    
    cd path/to/your/script/directory
- ##In this example:
+ ##  In this example:
 
 data/test_file.csv is the input CSV file that you want to analyze.
 data/cleaned_test_file.csv is the file where the cleaned data will be saved.
