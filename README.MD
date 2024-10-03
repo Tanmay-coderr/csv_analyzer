@@ -38,10 +38,10 @@ Output File Path: The path to save the cleaned CSV file.
 Example CSV File Format
 The script expects the CSV file to have a format like this:
 
-name	credit
-tanmay	100
-rahul	200
-sham	300
+name	credit<br>
+tanmay	100<br>
+rahul	200<br>
+sham	300<br>
 Script Explanation
 The script performs the following tasks:
 
