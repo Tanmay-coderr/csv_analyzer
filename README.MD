@@ -24,10 +24,10 @@ To use the script, follow these steps:
 1. Clone the repository or download the `csv_analyzer.py` script.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the script is located:
-  
+    ```bash
    cd path/to/your/script/directory
 4.Now to run the analysis enter the following script
-                  
+     ```bash             
    python csv_analyzer.py data/test_file.csv data/cleaned_test_file.csv
 
                   
